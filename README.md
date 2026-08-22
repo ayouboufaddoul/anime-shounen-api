@@ -1,4 +1,4 @@
-# Anime Shonen API
+# Anime Shounen API
 
 A comprehensive and easy-to-use API designed to fetch details, information, and statistics about your favorite Shonen anime.
 
