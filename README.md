@@ -50,3 +50,4 @@ A comprehensive and easy-to-use API designed to fetch details, information, and 
 ---
 
 ![Screenshot showing a Postman API request and response](/imgs/rm/spm11.png)
+
