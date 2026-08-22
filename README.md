@@ -1,3 +1,14 @@
+# Anime Shonen API
+
+A comprehensive and easy-to-use API designed to fetch details, information, and statistics about your favorite Shonen anime.
+
+## ✨ Features
+
+- **Search by Name:** Quickly find any Shonen anime by its title.
+- **Filter by Type:** Quickly find any anime by categories, type, or theme.
+- **Filter by Episodes:** Search or filter anime based on episode counts or length.
+- **Detailed Information:** Get rich data including synopsis, genres, and more.
+
 ![Screenshot showing a Postman API request and response](/imgs/rm/spm1.png)
 
 ---
